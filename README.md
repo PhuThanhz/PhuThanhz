@@ -43,16 +43,19 @@ My engineering background spans across:
 ### Featured Projects
 
 #### Enterprise & Backend Systems
-* **[HUB-API-SHOPEE](https://github.com/PhuThanhz/HUB-API-SHOPEE)** — Centralized order synchronization hub processing multi-store data from Shopee Open API into MySQL with multi-platform extensibility.
-* **[DEV-HRM-BACKEND](https://github.com/PhuThanhz/DEV-HRM-BACKEND)** — Comprehensive Human Resource Management platform with granular permission control, payroll calculations, and lifecycle management.
+* **[shopee-order-sync-hub](https://github.com/PhuThanhz/shopee-order-sync-hub)** — Centralized order synchronization hub processing multi-store data from Shopee Open API into MySQL with multi-platform extensibility.
+* **[enterprise-hrm-backend](https://github.com/PhuThanhz/enterprise-hrm-backend)** — Comprehensive Human Resource Management platform with granular permission control, payroll calculations, and lifecycle management.
 
 #### Full-Stack & Modern Web Applications
-* **[December Hair](https://github.com/PhuThanhz/december-hair)** — International salon web platform in the Czech Republic. Decoupled Next.js 16 App Router, FastAPI backend, PostgreSQL, GSAP motion, and headless back-office.
-* **[DEV-MRH-FRONTEND](https://github.com/PhuThanhz/DEV-MRH-FRONTEND)** — Enterprise-facing HRM portal built with modular React and TypeScript dashboard architecture.
+* **[december-hair](https://github.com/PhuThanhz/december-hair)** — International salon web platform in the Czech Republic. Decoupled Next.js 16 App Router, FastAPI backend, PostgreSQL, GSAP motion, and headless back-office.
+* **[enterprise-hrm-frontend](https://github.com/PhuThanhz/enterprise-hrm-frontend)** — Enterprise-facing HRM portal built with modular React and TypeScript dashboard architecture.
+* **[hiu-digital-library](https://github.com/PhuThanhz/hiu-digital-library)** — Campus digital library management system with catalogue indexing and borrowing workflow.
+* **[hiu-startup-portal](https://github.com/PhuThanhz/hiu-startup-portal)** — Official innovation & startup competition portal with project submission pipelines.
 
 #### Automation & Intelligent Systems
-* **[TOOL-AUTOMATION-POST](https://github.com/PhuThanhz/TOOL-AUTOMATION-POST)** — Automated high-volume social publishing engine with batch queues and multi-channel delivery.
-* **[phantichcamxuc](https://github.com/PhuThanhz/phantichcamxuc)** — Natural Language Processing sentiment classifier analyzing sentiment trends from textual data.
+* **[social-media-automation](https://github.com/PhuThanhz/social-media-automation)** — Automated high-volume social publishing engine with batch queues and multi-channel delivery.
+* **[nlp-sentiment-analysis](https://github.com/PhuThanhz/nlp-sentiment-analysis)** — Natural Language Processing sentiment classifier analyzing sentiment trends from textual data.
+* **[book-summary-app](https://github.com/PhuThanhz/book-summary-app)** — Content curation & book digest reader web application with responsive UI.
 
 ---
 
