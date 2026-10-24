@@ -136,7 +136,9 @@ Core engineering pillars:
 
 #### Creative Web & Full-Stack Applications
 * **[december-hair](https://github.com/PhuThanhz/december-hair)** — International digital salon platform in the Czech Republic. Built with decoupled Next.js 15 App Router, GSAP cinematic scroll storytelling, FastAPI backend services, and PostgreSQL persistence.
-* **[enterprise-hrm-frontend](https://github.com/PhuThanhz/enterprise-hrm-frontend)** — Enterprise-grade administrative dashboard constructed with modular React, TypeScript, interactive data grids, and state management.
+* **[lotus-hrm-platform](https://github.com/PhuThanhz/lotus-hrm-platform)** — Enterprise Human Resource Management portal built with modular React, TypeScript, role-based security, and dynamic attendance/payroll grids.
+* **[f1-technologies-web](https://github.com/PhuThanhz/f1-technologies-web)** — Corporate digital landing page and services showcase portal for F1 Technologies with responsive design.
+* **[lotus-ecommerce-engine](https://github.com/PhuThanhz/lotus-ecommerce-engine)** — Modular multi-store e-commerce engine with inventory management, cart workflows, and checkout processing.
 * **[hiu-digital-library](https://github.com/PhuThanhz/hiu-digital-library)** — Campus digital library platform with high-speed catalog indexing, real-time book loan tracking, and automated fine calculation.
 * **[hiu-startup-portal](https://github.com/PhuThanhz/hiu-startup-portal)** — Innovation competition portal handling multi-stage startup application submissions, rubric-based jury scoring, and live event leaderboards.
 
