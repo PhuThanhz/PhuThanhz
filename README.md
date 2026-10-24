@@ -1,7 +1,7 @@
 <div align="center">
 
 # Huỳnh Thạnh Phú
-### Senior Full-Stack Software Engineer & Applied AI Systems Specialist
+### Senior Full-Stack, Mobile & Applied AI Systems Architect
 **Ho Chi Minh City, Vietnam**
 
 <p align="center">
@@ -9,10 +9,16 @@
   <img src="https://img.shields.io/badge/NestJS-Node.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Next.js_15-React_19-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-JavaScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-Flutter-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Mobile Apps" />
   <img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Python FastAPI" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-HuggingFace-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch AI" />
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Design" />
   <img src="https://img.shields.io/badge/PostgreSQL-MySQL_8-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Databases" />
   <img src="https://img.shields.io/badge/Docker-Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/AWS-GCP-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="IaC" />
 </p>
 
 </div>
@@ -21,33 +27,74 @@
 
 ### Executive Profile
 
-Senior Full-Stack Software Engineer & Applied AI Systems Specialist with extensive experience building high-ticket, award-winning Landing Pages, mission-critical distributed backend architectures, and production-ready machine learning pipelines.
+Senior Full-Stack, Mobile & Applied AI Systems Architect bridging product design, high-conversion creative web, cross-platform mobile engineering, mission-critical distributed backends, scalable DevOps pipelines, and custom deep learning model training.
 
-* **Elite Creative Web & High-Conversion Landing Pages**: Architecting Awwwards-caliber interactive web platforms utilizing **Next.js 15 (App Router, Server Actions, PPR), React 19, Three.js, React Three Fiber (R3F), WebGL Shaders, GSAP 3 (ScrollTrigger, Flip, MorphSVG), and Lenis Smooth Scroll**. Specialized in transforming complex product narratives into high-converting visual journeys with 95+ Core Web Vitals, zero CLS, and sub-second paint times.
-* **Resilient, High-Throughput Distributed Backends**: Designing enterprise microservices and event-driven systems using **NestJS (TypeScript)**, **Java 17+ (Spring Boot 3, Spring Security, Spring Cloud)**, and **Python (FastAPI)**. Master of high-concurrency architectures, race-condition mitigation, multi-tier caching (Redis Clusters), payment gateways (Stripe, PayPal, VietQR), and distributed streaming (Apache Kafka, RabbitMQ).
-* **Applied Machine Learning & Custom Model Training**: Implementing end-to-end AI pipelines using **PyTorch and Hugging Face**. Expertise in data synthesis, tokenization optimization, Supervised Fine-Tuning (SFT), Parameter-Efficient Fine-Tuning (**LoRA / QLoRA** on LLaMA 3, Mistral, Qwen), advanced enterprise RAG (hybrid dense-sparse retrieval + cross-encoder reranking), and high-throughput model serving (**vLLM, Ollama**).
-* **Industrial Automation & Data Engineering**: Constructing fault-tolerant headless browser clusters (Playwright, Puppeteer) capable of high-scale scraping, automated content distribution, human-like cadence simulation, and canvas/WebGL fingerprint cloaking.
+Core engineering pillars:
+
+* **Creative Web & High-Conversion Landing Pages**: Architecting Awwwards-caliber interactive web platforms utilizing **Next.js 15 (App Router, Server Actions, PPR), React 19, Three.js, React Three Fiber (R3F), WebGL Shaders, GSAP 3 (ScrollTrigger, Flip, MorphSVG), and Lenis Smooth Scroll**. Specialized in transforming complex product narratives into high-converting visual journeys with 95+ Core Web Vitals, zero CLS, and sub-second paint times.
+* **Cross-Platform & Native Mobile Engineering**: Building production-ready, performant iOS and Android applications utilizing **React Native (Expo, New Architecture with Fabric & TurboModules) and Flutter**. Experienced in offline-first data synchronization (WatermelonDB, SQLite), native bridging, background location/notification services, and smooth 60 FPS gesture-driven animations.
+* **UI/UX Architecture & Figma Design Systems**: Designing comprehensive design systems from scratch in **Figma** (Auto Layout, Variables, Component Variants, Interactive Prototypes) and translating pixel-perfect specifications into reusable code tokens and component libraries.
+* **Resilient Distributed Backends & Fintech Engines**: Designing enterprise microservices and event-driven systems using **NestJS (TypeScript)**, **Java 17+ (Spring Boot 3, Spring Security, Spring Cloud)**, and **Python (FastAPI)**. Master of high-concurrency architectures, race-condition mitigation, multi-tier caching (Redis Clusters), payment gateways (Stripe, PayPal, VietQR), and distributed streaming (Apache Kafka, RabbitMQ).
+* **Applied Machine Learning & Extensive Custom Model Training**: Architecting end-to-end model training, fine-tuning, and MLOps pipelines using **PyTorch, Hugging Face, DeepSpeed, and FSDP**. Deep expertise across Computer Vision (YOLO, OCR, Segmentation), NLP (Transformers, Sentiment, NER), LLM Fine-Tuning (**LoRA, QLoRA** on LLaMA 3.3, Mistral, Qwen 2.5, DeepSeek), Diffusion/Multimodal workflows, and low-latency inference serving (**vLLM, TensorRT-LLM, Ollama**).
+* **DevOps, Cloud & Infrastructure as Code (IaC)**: Deploying resilient cloud architectures on **AWS and GCP** using **Docker, Kubernetes (EKS/GKE), Helm, Terraform, and GitHub Actions CI/CD**. Implementing zero-downtime rolling deployments, automated monitoring (Prometheus, Grafana), and distributed tracing.
 
 ---
 
-### Deep-Dive: Creative Frontend & Landing Page Capabilities
+### Deep-Dive: Applied AI, Deep Learning & Model Training
 
+* **Foundational LLM Fine-Tuning & Alignment**:
+  * Implementing Parameter-Efficient Fine-Tuning (**PEFT / LoRA / QLoRA 4-bit and 8-bit**) on open-weight LLMs (LLaMA 3.3 70B/8B, Mistral, Qwen 2.5, DeepSeek-V3).
+  * Distributed training workflows utilizing **PyTorch FSDP (Fully Sharded Data Parallel), DeepSpeed ZeRO-Stage 3, and FlashAttention-2** across multi-GPU clusters.
+  * Instruction-tuning alignment (SFT), dataset synthesis, deduplication, token length distribution optimization, and RLHF/DPO preference optimization.
+* **Computer Vision (CV) & Multimodal Systems**:
+  * Training custom object detection and instance segmentation models using **YOLO (v8, v10, v11) and Segment Anything (SAM)** for industrial inspection and media analysis.
+  * Optical Character Recognition (OCR) fine-tuning (PaddleOCR, Tesseract, TrOCR) for automated document parsing and receipt ingestion.
+  * Face verification, landmark tracking, and embedding clustering using InsightFace and OpenCV pipelines.
+* **Generative Media & Diffusion Pipelines**:
+  * Fine-tuning Stable Diffusion (SDXL) and Flux models using LoRA for domain-specific style replication and product photography.
+  * Node-based pipeline automation using ComfyUI, ControlNet (Depth, OpenPose, Canny), and IP-Adapter.
+  * Speech synthesis (TTS via Kokoro, Bark, XTTS) and speech-to-text transcription (OpenAI Whisper fine-tuned for accented Vietnamese).
+* **Enterprise Production RAG Architecture**:
+  * Multi-stage retrieval pipelines combining dense semantic embeddings with sparse lexical matching (BM25) and ColBERT cross-encoder rerankers.
+  * Vector database deployment and indexing: **Qdrant, Milvus, ChromaDB, PGVector**, with metadata partitioning and hybrid vector search.
+* **High-Throughput Model Serving & Quantization**:
+  * Model quantization workflows (**GGUF, AWQ, GPTQ, FP8**) to minimize VRAM footprints while preserving benchmark perplexity.
+  * Production inference deployment utilizing **vLLM (PagedAttention)**, **Triton Inference Server**, and **Ollama** delivering high token-per-second streaming throughput.
+
+---
+
+### Deep-Dive: Creative Frontend, Landing Pages & Figma Design Systems
+
+* **Figma to Production Design Systems**:
+  * Building atomic design component libraries in **Figma** with comprehensive color tokens, typography scales, spacing grids, and component variants.
+  * Seamless handoff architectures translating Figma tokens directly into Tailwind CSS presets and CSS variables with 100% visual fidelity.
 * **Interactive 3D & WebGL Canvas Experiences**:
-  * Integrating real-time 3D models (`.gltf` / `.glb`), interactive lighting, PBR materials, and custom GLSL vertex/fragment shaders via **Three.js & React Three Fiber**.
+  * Integrating real-time 3D models (`.gltf` / `.glb`), interactive lighting, PBR materials, and custom GLSL vertex/fragment shaders via **Three.js & React Three Fiber (R3F)**.
   * Physics-driven micro-interactions, cursor magnetic pull effects, particle flow fields, and organic liquid morphing animations.
 * **Cinematic Scroll & Narrative Engineering**:
-  * Precision scroll-driven storytelling using **GSAP ScrollTrigger**, pinning, horizontal container scrubbing, parallax depth layers, and SVG morphing.
+  * Precision scroll-driven storytelling using **GSAP ScrollTrigger**, container pinning, horizontal scrubbing, parallax depth layers, and SVG path morphing.
   * Frictionless inertia scrolling with **Lenis Virtual Scroll**, preventing scroll hijacking while maintaining 60–120 FPS rendering.
-* **Conversion Rate Optimization (CRO) & User Psychology**:
+* **Conversion Rate Optimization (CRO) & Technical SEO**:
   * Structuring interfaces according to the **AIDA & Gutenberg Diagram** frameworks to direct visual hierarchy straight toward primary conversion points.
-  * Interactive ROI & pricing tier calculators, multi-step onboarding funnels with instant client-side schema validation (Zod), and dynamic social proof widgets.
-* **Search Dominance & Technical SEO**:
-  * Automated dynamic Open Graph (OG) image generation via `@vercel/og` Edge functions.
-  * Rich snippet optimization using JSON-LD Schema.org structured data, semantic HTML5, localized internationalization (i18n), and automated XML sitemaps.
+  * Interactive ROI calculators, multi-step onboarding funnels with instant client-side schema validation (Zod), and dynamic social proof widgets.
+  * Automated dynamic Open Graph (OG) image generation via `@vercel/og` Edge functions and JSON-LD Schema.org structured data.
 
 ---
 
-### Deep-Dive: Enterprise Backend Capabilities
+### Deep-Dive: Mobile App Engineering (iOS & Android)
+
+* **React Native & Flutter Architecture**:
+  * Developing cross-platform mobile applications using **React Native (Expo, New Architecture Fabric/TurboModules)** and **Flutter (Dart)**.
+  * Smooth 60 FPS gesture-driven animations utilizing **React Native Reanimated 3**, Gesture Handler, and Skia Canvas.
+* **Offline-First & State Synchronization**:
+  * Local database architectures using **WatermelonDB, SQLite, and MMKV** with automatic conflict-free background synchronization to backend cloud services.
+* **Hardware & Native Device Integrations**:
+  * Deep hardware bridging: Biometric authentication (FaceID, Fingerprint), Camera/QR scanning, Background Geolocation, Bluetooth LE (BLE), and Push Notifications (FCM / APNs).
+  * In-App Purchase (IAP) integrations with Apple StoreKit and Google Play Billing.
+
+---
+
+### Deep-Dive: Enterprise Backend & Cloud DevOps
 
 * **High-Throughput Concurrency & Real-Time Engines**:
   * Asynchronous non-blocking architectures handling tens of thousands of concurrent connections using NestJS WebSockets (Socket.IO) and Spring Boot WebFlux.
@@ -55,32 +102,15 @@ Senior Full-Stack Software Engineer & Applied AI Systems Specialist with extensi
 * **Fintech & Payment Gateway Orchestration**:
   * Idempotent payment processing pipelines integrating **Stripe (Webhooks, Subscriptions, Checkout Sessions), PayPal, VNPay, MoMo, and automated VietQR bank reconciliation**.
   * Double-entry ledger architecture, refund dispute handling, and automated billing invoicing.
-* **Enterprise Security, Authentication & Governance**:
-  * Zero-Trust authentication using OAuth2, OpenID Connect, and stateless JWT with asymmetric cryptographic key pairs (RS256).
-  * Fine-grained Role-Based Access Control (RBAC), Attribute-Based Access Control (ABAC), SQL injection defense, CSRF mitigation, and audit logging.
-  * Distributed rate-limiting implementations based on Token Bucket and Sliding Window algorithms via Redis.
-* **Advanced Data Management & Distributed Systems**:
-  * Database design and query tuning across **PostgreSQL & MySQL 8** (composite indexing, EXPLAIN query planning, partition pruning).
+* **Data Management & Distributed Systems**:
   * Multi-tier caching architecture: L1 in-memory caching (Caffeine) paired with L2 distributed caching (Redis Cluster), with proactive cache stampede prevention.
   * Concurrency control: Optimistic locking with versioning and Pessimistic distributed locking via Redis Redlock to eradicate inventory race conditions.
-  * Event-driven architectures and Event Sourcing powered by **Apache Kafka** and **RabbitMQ** with dead-letter queue (DLQ) recovery strategies.
-* **Third-Party Marketplace & API Synchronization**:
-  * Enterprise data bridge synchronizing millions of SKU catalogs, multi-store order books, and real-time inventory from the **Shopee Open API, TikTok Shop, and Lazada Open Platform**.
-
----
-
-### Deep-Dive: Applied AI & Model Training Capabilities
-
-* **Custom Model Fine-Tuning (LLMs & Deep Learning)**:
-  * Full training and fine-tuning pipelines using **PyTorch, Hugging Face Transformers, TRL, and PEFT**.
-  * Quantization-aware training and low-rank adaptation (**LoRA / QLoRA 4-bit / 8-bit**) on modern open-weight foundational models (LLaMA 3.3, Mistral, Qwen 2.5).
-  * Data curation: Automated synthetic data generation, semantic deduplication, quality filtering, and instruction-tuning alignment.
-* **Enterprise Production RAG Architecture**:
-  * Multi-stage retrieval pipelines combining dense semantic embeddings with sparse lexical matching (BM25) and ColBERT cross-encoder rerankers.
-  * Vector database deployment and indexing: **Qdrant, Milvus, ChromaDB**, with metadata filtering and hybrid vector search.
-* **Autonomous Multi-Agent Workflows & Serving**:
-  * Multi-agent execution chains with deterministic tool-calling, self-correction, and task decomposition (LangChain, LangGraph).
-  * Production model deployment using **vLLM (PagedAttention)** and **Ollama** for low-latency streaming inference under heavy concurrency.
+  * Event-driven architectures powered by **Apache Kafka** and **RabbitMQ** with dead-letter queue (DLQ) recovery strategies.
+* **DevOps, Kubernetes & Cloud Infrastructure**:
+  * Container orchestration with **Docker and Kubernetes (EKS, GKE, K8s manifests, Helm charts)**.
+  * Infrastructure as Code (IaC) provisioning using **Terraform** on AWS (EC2, S3, RDS Aurora, Lambda, CloudFront) and GCP.
+  * Automated CI/CD pipelines via **GitHub Actions** with automated testing, linting, Docker image multi-arch builds, and zero-downtime rolling updates.
+  * Observability stacks: **Prometheus, Grafana, ELK/Loki**, Sentry crash tracking, and distributed OpenTelemetry tracing.
 
 ---
 
@@ -88,11 +118,13 @@ Senior Full-Stack Software Engineer & Applied AI Systems Specialist with extensi
 
 | Category | Technologies & Tooling |
 | :--- | :--- |
-| **Creative Frontend & Landing Pages** | Next.js 15, React 19, TypeScript, Three.js, React Three Fiber, WebGL, GSAP 3, Lenis Scroll, Tailwind CSS v4, Framer Motion, HTML5 Canvas, Zod |
+| **Product Design & UI/UX** | Figma (Design Systems, Auto Layout, Tokens, Interactive Prototyping), Adobe XD, Wireframing |
+| **Creative Frontend & Landing Pages** | Next.js 15, React 19, TypeScript, Three.js, React Three Fiber, WebGL (GLSL), GSAP 3, Lenis Scroll, Tailwind CSS v4, Framer Motion, HTML5 Canvas, Zod |
+| **Mobile Applications** | React Native, Expo, Flutter (Dart), Reanimated 3, Gesture Handler, WatermelonDB, SQLite, MMKV, App Store & Google Play Deployment |
 | **Enterprise Backend & Services** | NestJS, Java 17+ (Spring Boot 3, Spring Data JPA, Spring Security), Python (FastAPI), RESTful API, gRPC, WebSockets, Socket.IO |
-| **AI, ML & Model Training** | PyTorch, Hugging Face (Transformers, PEFT, TRL), LoRA / QLoRA, LangChain, LlamaIndex, vLLM, Ollama, Vector DBs (Qdrant, Milvus, ChromaDB) |
+| **AI, ML & Model Training** | PyTorch, Hugging Face (Transformers, PEFT, TRL), DeepSpeed, LoRA / QLoRA, YOLO (v8/v11), SAM, OpenCV, Whisper, vLLM, Ollama, Vector DBs (Qdrant, Milvus) |
 | **Databases, Caching & Queues** | PostgreSQL, MySQL 8, Redis Cluster, Apache Kafka, RabbitMQ, BullMQ, ElasticSearch, ClickHouse |
-| **DevOps, Infra & Automation** | Docker, Docker Compose, Kubernetes, GitHub Actions CI/CD, Nginx, Playwright, Puppeteer, Linux (Ubuntu/Debian), Shell Scripting |
+| **DevOps, Cloud & Infrastructure** | Docker, Kubernetes (K8s), Helm, Terraform (IaC), AWS, GCP, GitHub Actions CI/CD, Nginx, Prometheus, Grafana, Playwright, Linux Administration |
 
 ---
 
